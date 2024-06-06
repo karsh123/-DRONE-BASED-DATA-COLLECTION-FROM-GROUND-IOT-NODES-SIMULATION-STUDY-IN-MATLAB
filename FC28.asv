@@ -1,0 +1,14 @@
+#include "C:\Users\jayit\MATLAB\Projects\Smart Farming with IoT Sensors\FC28.h"
+#include 
+
+// dataDelay uint32 [1,1] Tunable
+
+void setupFunctionFC28(uint32_T * dataDelay,int size_vector__1){
+}
+
+// Voltage double [1,1]
+
+
+void stepFunctionFC28(double * Voltage,int size_vector_1, uint32_T * dataDelay,int size_vector__1){
+  
+}
