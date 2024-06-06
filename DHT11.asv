@@ -1,4 +1,4 @@
-#include "C:\Users\jayit\MATLAB\Projects\Smart Farming with IoT Sensors\DHT11.h"
+#include "C:\Users\karsh\MATLAB\Projects\Smart Farming with IoT Sensors\DHT11.h"
 #include "ardino.h"
 #include "DHT.h"
 #include "DHT_U.h"
